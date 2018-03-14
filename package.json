@@ -1,0 +1,15 @@
+{
+  "name": "npm-iseng",
+  "version": "1.0.0",
+  "description": "project npm pertama",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ardyan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.2.1"
+  }
+}
